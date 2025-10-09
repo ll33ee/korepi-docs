@@ -11,7 +11,7 @@ order: 3
 ::: info Solo para Sponsor
 :::
 ---
-## Salto de Conejo saltara automaticamente después del primer salto.
+## Salto de Conejo saltará automáticamente después del primer salto.
 
 ## Video de Ejemplo:
 

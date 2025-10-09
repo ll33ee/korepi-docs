@@ -28,7 +28,7 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
       - title: Desbloquea ubicaciones desconocidas
-      - title: Explora automaticamente 
+      - title: Explora automáticamente 
       - title: Modo Exploración, céntrate más en el juego!
       - title: Disponible en múltiples idiomas!
 
@@ -85,7 +85,7 @@ highlights:
         details: Permite al jugador recoger madera automáticamente.
       - title: Auto Cocinar
         icon: utensils
-        details: Cocina automaticamente sin necesidad de la intervención del jugador.
+        details: Cocina automáticamente sin necesidad de la intervención del jugador.
       - title: Succión de Mobs
         icon: tornado
         details: Atrae a diferentes mobs cercanos al jugador.
@@ -95,9 +95,9 @@ highlights:
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
-      - title: Se añádio Gestor de Mapa
+      - title: Se añadió Gestor de Mapa
         icon: comment
-        details: Esta función desbloqueara el los teletransportes del mapa automaticamente.
+        details: Esta función desbloqueará los teletransportes del mapa automáticamente.
 
   - header: Nuestras Ventajas
     description: Lo que ofrecemos...

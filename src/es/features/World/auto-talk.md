@@ -9,7 +9,7 @@ author: Schvis
 order: 8
 ---
 
-## Auto Conversar: Habla automaticamente con los NPCs
+## Auto Conversar: Habla automáticamente con los NPCs
 ### Dialogo Rápido:
 - Acelera el juego haciendo que el dialogo sea más rápido.
 > Nota: No se recomienda por encima de `5`.

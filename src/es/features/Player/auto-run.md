@@ -9,7 +9,7 @@ author: Schvis
 order: 2
 ---
 
-## Auto Correr mueve al personaje automaticamente hacia la dirección que esta mirando.
+## Auto Correr mueve al personaje automáticamente hacia la dirección que está mirando.
 
 ## Video de Ejemplo:
 

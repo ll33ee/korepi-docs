@@ -9,7 +9,7 @@ author: Schvis
 order: 1
 ---
 
-## Teletransporte de Oculus te teletransportara al oculus más cercano renderizado.
+## Teletransporte de Oculus te teletransportará al oculus más cercano renderizado.
 
 > Nota: Espera `>15s` entre teletransportes por seguridad.
 
